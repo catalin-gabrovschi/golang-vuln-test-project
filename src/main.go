@@ -14,4 +14,5 @@ func main() {
 		panic(err)
 	}
 	fmt.Println(resp)
+	fmt.Println(password)
 }
